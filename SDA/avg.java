@@ -18,7 +18,7 @@ public class avg {
         }
     }
 
-    void sum_dis() {
+    void avg_dis() {
         for (int i = 0; i < n; i++) {
             avg = avg + a[i];
         }
@@ -28,7 +28,7 @@ public class avg {
     public static void main(String[] args) {
         avg obj = new avg();
         obj.acc();
-        obj.sum_dis();
+        obj.avg_dis();
         obj.sc.close();
     }
 }
