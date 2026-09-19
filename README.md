@@ -3,7 +3,7 @@ Java programs based on Arrays
 
 ## What this repository contains
 This repo contains two folders,
-- **SDA**, which carries 15 programs based on Single-Dimensional Arrays
+- **SDA**, carries 15 programs based on Single-Dimensional Arrays
 - **DDA**, *programs yet to be pushed*
 
 ### SDA
