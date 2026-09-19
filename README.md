@@ -2,14 +2,14 @@
 Java programs based on Arrays
 
 ## What this repository contains
-This repo contains two folders,
-- **SDA**, carries 15 programs based on Single-Dimensional Arrays
-- **DDA**, *programs yet to be pushed*
+This repo contains two folders:
+- **SDA** - carries 15 programs based on Single-Dimensional Arrays
+- **DDA** - *programs yet to be pushed*
 
 ### SDA
-This folder contains 15 Single Dimension Array programs as follows:
-1. **arr_sum**: to find the sum of the elements
-2. **avg**: to find the average of the elements
+This folder contains 15 Single-Dimensional Array programs as follows:
+1. **arr_sum**: finds the sum of the elements
+2. **avg**: finds the average of the elements
 3. **largest**: finds the largest element
 4. **smallest**: finds the smallest element
 5. **even_odd**: finds the number of even and odd elements
@@ -25,4 +25,4 @@ This folder contains 15 Single Dimension Array programs as follows:
 15. **rotate**: rotates an array to the left
 
 ### DDA
-*programs yet to be pushed*
+*Programs yet to be pushed*
