@@ -4,7 +4,7 @@ Java programs based on Arrays
 ## What this repository contains
 This repo contains two folders:
 - **SDA** - contains 15 programs based on Single-Dimensional Array
-- **DDA** - *programs yet to be pushed*
+- **DDA** - contains 15 programs based on Double-Dimensional Array
 
 ### SDA
 This folder contains 15 Single-Dimensional Array programs as follows:
@@ -25,4 +25,19 @@ This folder contains 15 Single-Dimensional Array programs as follows:
 15. **rotate**: rotates an array to the left
 
 ### DDA
-*Programs yet to be pushed*
+This folder contains 15 Double-Dimensional Array programs as follows:
+1. **rowLargest**: finds the largest element from each row
+2. **colLargest**: finds the largest element from each column
+3. **diag**: displays the elements of primary and secondary diagonals
+4. **rowSum**: finds the sum of elements of each row
+5. **colSum**: finds the sum of elements of each column
+6. **diagSum**: finds the sum of elements of both diagonals
+7. **transpose**: finds the transpose of a matrix
+8. **matSum**: adds two matrices
+9. **matDiff**: subtracts two matrices
+10. **matMult**: multiplies two matrices
+11. **symmetric**: checks whether a matrix is symmetric
+12. **upTriangle**: displays the elements above and including the main diagonal
+13. **lowTriangle**: displays the elements below and including the main diagonal
+14. **identity**: checks if a matrix is identity matrix
+15. **sparse**: checks if a matrix is sparse matrix
