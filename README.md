@@ -1,6 +1,6 @@
 # java-arrays
 
-Java programs based on **Arrays**, covering Single-Dimensional Arrays (SDA) and Double-Dimensional Arrays (DDA) at the Class XII level.
+Java programs based on **Arrays**, covering Single-Dimensional Arrays (SDA) and Double-Dimensional Arrays (DDA) at the Class XII level
 
 ## What this repository contains
 
@@ -13,7 +13,7 @@ This repository contains **30 Java programs**, divided into two sections:
 
 ## 1. Single-Dimensional Arrays (SDA)
 
-Programs based on operations and problems involving one-dimensional arrays.
+Programs based on operations and problems involving one-dimensional arrays
 
 1. **Array Sum** — calculates the sum of all elements of an array.
 2. **Average** — calculates the average of the elements of an array.
@@ -35,7 +35,7 @@ Programs based on operations and problems involving one-dimensional arrays.
 
 ## 2. Double-Dimensional Arrays (DDA)
 
-Programs based on matrices and two-dimensional array operations.
+Programs based on matrices and two-dimensional array operations
 
 1. **Row Largest**: finds the largest element from each row.
 2. **Column Largest**: finds the largest element from each column.
